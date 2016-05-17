@@ -1,7 +1,7 @@
 ;;;; ***********************************************************************
 ;;;;
 ;;;; Name:          rudiment.asd
-;;;; Project:       rudiment: a template for lisp web-app projects
+;;;; Project:       rudiment: a lisp web-app template
 ;;;; Purpose:       main client
 ;;;; Author:        mikel evins
 ;;;; Copyright:     2016 by mikel evins
