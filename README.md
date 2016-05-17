@@ -30,5 +30,3 @@ out how to do it by examining the code.
 rudiment is a template for use in creating new restas-based webapp
 projects, no more, and no less.
 
-
-
