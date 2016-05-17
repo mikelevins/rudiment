@@ -1,0 +1,12 @@
+;;; CSS template for rudiment
+
+(:let ((default-background-color "#ffffff"))
+
+  ;; the CSS rules --------------------------------
+
+  (* :margin 0
+     :padding 0)
+
+  (body
+   :background ,default-background-color))
+

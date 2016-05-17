@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>rudiment login</title>
+        <% @include include/css-links.tmpl %>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    </head>
+    <body>
+        <div class=".container-fluid">
+            <div class="row">
+                <div class="col-md-1">  </div>
+                <div class="col-md-8">
+                    <form action="loginsubmit">
+                        <h1>Log in to rudiment: </h1>
+                        <div class="row">
+                            <label>username: </label>
+                            <input type="text" name="username"/>
+                        </div>
+                        <div class="row">
+                            <label>password: </label>
+                            <input type="password" name="password"/>
+                        </div>
+                        <div class="row">
+                            <input type="submit" value="log in"/>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
