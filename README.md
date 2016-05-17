@@ -4,7 +4,7 @@ Rudiment is a skeleton project I made for myself to help me set up
 Lisp-based webapps more easily. It relies on the following tools and
 frameworks:
 
-- **Common Lisp**
+- **Common Lisp** because it's my favorite
 - **quicklisp** for package management
 - **Bootstrap** for CSS and Javascript support
 
